@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590532731 source:e:\#project\leetcode\c\8_string_to_integer_(atoi)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
