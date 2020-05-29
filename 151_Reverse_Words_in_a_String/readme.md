@@ -1,6 +1,7 @@
 ### overview
 This is https://leetcode.com/problems/reverse-words-in-a-string/  
 
+### pay attention
 it seems that you need to reverse in the original string, or the memory will overflow
 
 ### submissions 
