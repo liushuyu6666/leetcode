@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1590726650 source:e:\#project\leetcode\c\151_reverse_words_in_a_string\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
