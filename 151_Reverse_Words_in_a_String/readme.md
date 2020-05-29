@@ -8,8 +8,8 @@ Memory Usage: 5.8 MB, less than 100.00% of C online submissions for Reverse Word
 https://leetcode.com/submissions/detail/346144091/
 
 
-explanation:\\
-  0:
+explanation:</br>
+  0:</br>
     _ _ A B X Y Z _ _ C D E F _ _ _
   
   1: reverse
